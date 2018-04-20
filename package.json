@@ -20,6 +20,7 @@
     "test": "ava"
   },
   "files": [
+    "lib/*",
     "index.js"
   ],
   "keywords": [
