@@ -1,6 +1,6 @@
 # write-glyphs-file [![Build Status](https://travis-ci.org/delucis/write-glyphs-file.svg?branch=master)](https://travis-ci.org/delucis/write-glyphs-file)
 
-> Stringify and write a .glyphs font file [atomically](https://github.com/npm/write-file-atomic)
+> Stringify and write a `.glyphs` font file [atomically](https://github.com/npm/write-file-atomic)
 
 Converts a Javascript object into a string for use with the `.glyphs` font format and writes it to disk. Creates directories for you as needed.
 
