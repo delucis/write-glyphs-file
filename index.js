@@ -10,7 +10,7 @@ const PIFY = UTIL.promisify
 
 const ENFORCE_EXT = fp => PATH.extname(fp) === '.glyphs' ? fp : `${fp}.glyphs`
 
-const INIT = (fn, fp, data, opts) => {
+const INIT = (fn, fp, data, opts = {}) => {
   if (!fp) {
     throw new TypeError('Expected a filepath')
   }
