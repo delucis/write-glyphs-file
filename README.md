@@ -8,7 +8,7 @@ Converts a Javascript object into a string for use with the `.glyphs` font forma
 ## Install
 
 ```
-$ npm install --save write-glyphs-file
+npm install --save write-glyphs-file
 ```
 
 
