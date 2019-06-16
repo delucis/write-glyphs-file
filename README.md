@@ -1,4 +1,4 @@
-# write-glyphs-file [![Build Status](https://travis-ci.org/delucis/write-glyphs-file.svg?branch=master)](https://travis-ci.org/delucis/write-glyphs-file)
+# write-glyphs-file [![Build Status](https://travis-ci.org/delucis/write-glyphs-file.svg?branch=master)](https://travis-ci.org/delucis/write-glyphs-file) [![Coverage Status](https://coveralls.io/repos/github/delucis/write-glyphs-file/badge.svg?branch=master)](https://coveralls.io/github/delucis/write-glyphs-file?branch=master)
 
 > Stringify and write a `.glyphs` font file [atomically](https://github.com/npm/write-file-atomic)
 
